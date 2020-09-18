@@ -9,7 +9,7 @@ public class DockerTest {
     @RequestMapping("/hello")
     public String helloDocker(){
 
-        System.out.println("--sssss---- hello word");
+        System.out.println("--suuuuussss---- hello word");
 
         return "hello docker";
     }
