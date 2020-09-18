@@ -11,7 +11,7 @@ public class DockerTest {
 
         System.out.println("--suuuuussss---- hello word");
 
-        return "hello docker";
+        return "hello docker deploy by jenkins pipeline";
     }
 
 }
